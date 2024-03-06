@@ -1,0 +1,55 @@
+[
+    {
+    "name" : {
+       "name1": "leggings", 
+       "name2": "sports bra", 
+       "name3": "shorts", 
+       "name4": "sweatband", 
+       "name5": "sneakers", 
+       "name6": "dumbbells", 
+       "name7": "resistance bands",
+       "name8": "creatine",
+       "name9": "protein powder",
+       "name10": "caffeine"
+             }, 
+
+    "description" : {
+        "desc1": "black full length leggings",
+        "desc2": "purple medium support", 
+        "desc3": "blue 5 inch running shorts", 
+        "desc4": "striped head sweatband", 
+        "desc5": "green running sneakers", 
+        "desc6": "20 pound free weight dumbbells", 
+        "desc7": "10 pounds yellow resistance band", 
+        "desc8": "1000mg creatine pill", 
+        "desc9": "cookies and cream, 25 grams protein per serving", 
+        "desc10": "powder, 150mg caffeine per serving"
+                    },
+    
+    "price": {
+        "price1": "$65",
+        "price2": "$30",
+        "price3": "$40", 
+        "price4": "$15", 
+        "price5": "$70", 
+        "price6": "$35", 
+        "price7": "$10", 
+        "price8": "$20", 
+        "price9": "$45", 
+        "price10": "$12"
+            },
+
+    "category": {
+        "cat1": "clothing",
+        "cat2": "clothing", 
+        "cat3": "clothing, running",
+        "cat4": "clothing, running", 
+        "cat5": "running", 
+        "cat6": "lifting", 
+        "cat7": "lifting", 
+        "cat8": "lifting", 
+        "cat9": "lifting", 
+        "cat10": "lifting"
+                }
+            }
+        ]
