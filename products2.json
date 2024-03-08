@@ -1,0 +1,69 @@
+
+    {
+        "product1": {"name": "leggings",
+        "description": "black full length leggings",
+        "price": "$65", 
+        "category": "clothing"
+        },
+    
+        "product2": {"name2": "sports bra",
+        "description": "purple medium support",
+        "price": "$30",
+        "category": "clothing"
+        },
+
+        "product3": {"name3": "shorts",
+        "description3": "blue 5 inch running shorts",
+        "price3": "$40",
+        "category3": "clothing, running"
+        },
+    
+        "product4": {"name": "sweatband",
+        "description": "striped head sweatband", 
+        "price": "$15", 
+        "category": "clothing, running"
+        },
+    
+        "product5": {"name": "sneakers", 
+        "description": "green running sneakers", 
+        "price": "$70", 
+        "category": "running" 
+        },
+    
+        "product6": {
+        "name": "dumbbells",
+        "description": "20 pound free weight dumbbells",
+        "price": "$35",
+        "category": "lifting"
+        }, 
+
+        "product7": {
+        "name": "resistance bands",
+        "description": "10 pounds yellow resistance band",
+        "price": "$10", 
+        "category": "lifting"
+        },
+
+        "product8": {
+        "name": "creatine",
+        "description": "1000mg creatine pill",
+        "price": "$20",
+        "category": "lifting"  
+        },
+
+        "product9": {
+        "name": "protein powder",
+        "description": "cookies and cream, 25 grams protein per serving",
+        "price": "$45",
+        "category": "lifting" 
+        },
+
+        "product10": {
+        "name": "caffeine",
+        "description": "powder, 150mg caffeine per serving",
+        "price": "$12",
+        "category": "lifting" 
+        }
+    }
+
+      
