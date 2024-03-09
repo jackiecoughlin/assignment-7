@@ -1,10 +1,4 @@
-
-    {
-        "product1": {"name": "leggings",
-        "description": "black full length leggings",
-        "price": "$65", 
-        "category": "clothing"
-        },
+{"product1": {"name": "leggings", "description": "black full length leggings", "price": "$65", "category": "clothing"},
     
         "product2": {"name2": "sports bra",
         "description": "purple medium support",
